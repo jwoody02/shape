@@ -1,0 +1,56 @@
+PODS:
+  - Alamofire (5.0.5)
+  - DropDown (2.3.13)
+  - DynamicBlurView (4.0.0)
+  - MarqueeLabel (4.0.2)
+  - MHSoftUI (0.1.0)
+  - NotificationBannerSwift (3.0.2):
+    - MarqueeLabel (~> 4.0.0)
+    - SnapKit (~> 5.0.0)
+  - PopupDialog (1.1.1):
+    - DynamicBlurView (~> 4.0)
+  - SnapKit (5.0.1)
+  - Stripe (19.0.1)
+  - SwiftKeychainWrapper (3.4.0)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - DropDown
+  - MHSoftUI
+  - NotificationBannerSwift (~> 3.0.0)
+  - PopupDialog (~> 1.1)
+  - Stripe
+  - SwiftKeychainWrapper
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DropDown
+    - DynamicBlurView
+    - MarqueeLabel
+    - MHSoftUI
+    - NotificationBannerSwift
+    - PopupDialog
+    - SnapKit
+    - Stripe
+    - SwiftKeychainWrapper
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: df2f8f826963b08b9a870791ad48e07a10090b2e
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  DynamicBlurView: ccf9acd2b20c883cc2c72e3524a04d8d3ee20533
+  MarqueeLabel: f762aa681ae201f66c1d511858b171f75d83013a
+  MHSoftUI: efa0704cbc30d118bbede29f19c35efeb0c8f4c3
+  NotificationBannerSwift: 713e20f21b6105f4a36a00e5d9fa414a930d3d8e
+  PopupDialog: 720c92befd8bc23c13442254945213db5612f149
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  Stripe: 03313f9520a0786e2c00d9a7a2672c11e08821af
+  SwiftKeychainWrapper: 6fc49fbf7d4a6b0772917acb0e53a1639f6078d6
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: a4113e629362f5b3a711e70351e4e1c7a55d529a
+
+COCOAPODS: 1.8.4
